@@ -5,6 +5,7 @@ Big thanks to JohnnyCrazy over @ https://github.com/JohnnyCrazy/.
 Used his https://github.com/JohnnyCrazy/SpotifyAPI-NET to create my little application
 
 Instructions:
+- Spotify Premium. This is a spotify restriction for using their API
 - Dotnet 4.5.2 is required
 - Install the Program
 - Create a playlist in spotify
