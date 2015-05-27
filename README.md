@@ -15,6 +15,9 @@ Instructions:
 - press stop to stop the session
 
 Please note: you can create a playlist in no time just by skipping to the next song every second (could be a feature in a future release to let the program create a playlist of x songs)
+
+This is, for now, just a prove of concept. It has not many functionality, but it is a feature I was missing for quite a long time.
+Future releases will have more feature and an improved interface.
  
 Bugs & Feature request:
 You are welcome to report bugs and ask for new features!
